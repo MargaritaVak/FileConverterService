@@ -1,0 +1,80 @@
+{
+  "countries": [
+    {
+      "country": {
+        "name": "Russia",
+        "albums": [
+          {
+            "name": "The End",
+            "executor": "Lucy Chebotina",
+            "year": 2021,
+            "tracks": 8,
+            "genres": [
+              "pop"
+            ]
+          },
+          {
+            "name": "Shura 2",
+            "executor": "Shura",
+            "year": 1998,
+            "tracks": 10,
+            "genres": [
+              "pop"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "country": {
+        "name": "Great Britain",
+        "albums": [
+          {
+            "name": "21",
+            "executor": "Adele",
+            "year": 2011,
+            "tracks": 11,
+            "genres": [
+              "pop",
+              "soul"
+            ]
+          },
+          {
+            "name": "The Dark Side of the Moon",
+            "executor": "Pink Floyd",
+            "year": 1973,
+            "tracks": 10,
+            "genres": [
+              "rock"
+            ]
+          },
+          {
+            "name": "Equals",
+            "executor": "Ed Sheeran",
+            "year": 2021,
+            "tracks": 14,
+            "genres": [
+              "pop"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "country": {
+        "name": "Italy",
+        "albums": [
+          {
+            "name": "Teatro dira-Vol.I",
+            "executor": "Maneskin",
+            "year": 2021,
+            "tracks": 8,
+            "genres": [
+              "rock"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
