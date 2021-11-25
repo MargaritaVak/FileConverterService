@@ -1,3 +1,4 @@
+json_to_xml
 <?xml version="1.0" encoding="utf-8"?>
 <playlist>
     <music id="0">
@@ -62,3 +63,5 @@
         </genres>
     </music>
 </playlist>
+
+main
