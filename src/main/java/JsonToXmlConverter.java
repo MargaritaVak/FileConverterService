@@ -10,9 +10,9 @@ import java.io.IOException;
 
 public class JsonToXmlConverter {
     public static void main(String @NotNull [] args) throws IOException, XMLStreamException, ParseException {
-        //if (args.length != 2) {
-        //    throw new IllegalArgumentException("Некорректное количество аргументов");
-        //}
+        if (args.length != 2) {
+           throw new IllegalArgumentException("Некорректное количество аргументов");
+        }
 
         if (new File("file/output").mkdirs()) {
             System.out.println("Директория для сохранения выходных файлов успешно создана\n");
